@@ -1,7 +1,9 @@
 # NotRussianDodosPureGold
 Totally Not Russian Ddos, Pure Gold C#
 
-This is pure c# russian government, internet prowider and few other websites ddos app.
+This is pure c# russian government, internet prowider and few other websites ddos app. There are also few russian bank websites listed, put them there the way russians took an impact on Ukrainian banks.
+I will also prowide ddosing using my own servers, but it shouldn't take a damage for a long time. That's why me - a great man giving you source of this app for any kind of use, but the use of it better be only the idea, the app was created for.
+
 Full list of all ip's being ddosed is listed on ippsssdas.txt.
 This thing is open source.
 
