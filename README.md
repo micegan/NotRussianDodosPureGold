@@ -8,6 +8,7 @@ I will also prowide ddosing using my own servers, but it shouldn't take a damage
 
 Full list of all ip's being ddosed is listed on ippsssdas.txt.
 This thing is open source.
+Source: https://github.com/micegan/NotRussianDodosPureGold/blob/main/Dosdos/Program.cs
 
 Virustotal scans: https://www.virustotal.com/gui/file/bd9c4ba2af200ff6e6b28c6ca1ceabea064eca34040e7e59a88e026be7c68052?nocache=1
 
