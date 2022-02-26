@@ -8,3 +8,5 @@ This thing is open source.
 .exe file is on build folder, all other are default visual studio folders and files as listed.
 
 If you are russian you're better not be launching this on your pc at all if you have no stabile vpn or proxy!
+
+Me do not take responsability of any kind of shit you're going to do with this program.
