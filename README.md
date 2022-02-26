@@ -1,6 +1,8 @@
 # NotRussianDodosPureGold
 Totally Not Russian Ddos, Pure Gold C#
 
+You can launch few frames(launcging program few times), if you have great-potato computer
+
 This is pure c# russian government, internet provider and few other websites ddos app. There are also few russian bank websites listed, put them there, the way russians took an impact on Ukrainian banks.
 I will also prowide ddosing using my own servers, but it shouldn't take a damage for a long time. That's why me - a great man, giving you source of this app for any kind of use, but the use of it better be only the idea, the app was created for.
 
