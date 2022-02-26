@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Dosdos\Dosdos\obj\Debug\Dosdos.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Dosdos\Dosdos\obj\Debug\Dosdos.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Dosdos\Dosdos\bin\Debug\Dosdos.exe.config
+C:\Users\User\source\repos\Dosdos\Dosdos\bin\Debug\Dosdos.exe
+C:\Users\User\source\repos\Dosdos\Dosdos\bin\Debug\Dosdos.pdb
+C:\Users\User\source\repos\Dosdos\Dosdos\obj\Debug\Dosdos.exe
+C:\Users\User\source\repos\Dosdos\Dosdos\obj\Debug\Dosdos.pdb
