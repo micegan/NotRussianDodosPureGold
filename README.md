@@ -1,4 +1,6 @@
 # NotRussianDodosPureGold
+It's not just tcp overloading 1000 times per once, there's a System.Timers.Timer!!!!!!!!!!!!!!!!!!
+
 Totally Not Russian Ddos, Pure Gold C#
 
 You can launch few frames(launcging program few times), if you have great-potato computer
